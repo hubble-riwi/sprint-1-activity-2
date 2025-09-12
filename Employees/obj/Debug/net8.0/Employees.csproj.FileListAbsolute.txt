@@ -1,0 +1,14 @@
+/home/csharp/Documentos/JB/activity-2/Employees/bin/Debug/net8.0/Employees
+/home/csharp/Documentos/JB/activity-2/Employees/bin/Debug/net8.0/Employees.deps.json
+/home/csharp/Documentos/JB/activity-2/Employees/bin/Debug/net8.0/Employees.runtimeconfig.json
+/home/csharp/Documentos/JB/activity-2/Employees/bin/Debug/net8.0/Employees.dll
+/home/csharp/Documentos/JB/activity-2/Employees/bin/Debug/net8.0/Employees.pdb
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.AssemblyInfoInputs.cache
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.AssemblyInfo.cs
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.dll
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/refint/Employees.dll
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.pdb
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/Employees.genruntimeconfig.cache
+/home/csharp/Documentos/JB/activity-2/Employees/obj/Debug/net8.0/ref/Employees.dll

@@ -1,0 +1,14 @@
+/home/csharp/Documentos/JB/activity-2/Contest/bin/Debug/net8.0/Contest
+/home/csharp/Documentos/JB/activity-2/Contest/bin/Debug/net8.0/Contest.deps.json
+/home/csharp/Documentos/JB/activity-2/Contest/bin/Debug/net8.0/Contest.runtimeconfig.json
+/home/csharp/Documentos/JB/activity-2/Contest/bin/Debug/net8.0/Contest.dll
+/home/csharp/Documentos/JB/activity-2/Contest/bin/Debug/net8.0/Contest.pdb
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.AssemblyInfoInputs.cache
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.AssemblyInfo.cs
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.dll
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/refint/Contest.dll
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.pdb
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/Contest.genruntimeconfig.cache
+/home/csharp/Documentos/JB/activity-2/Contest/obj/Debug/net8.0/ref/Contest.dll

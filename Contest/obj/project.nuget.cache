@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Pth/s44HBw=",
+  "success": true,
+  "projectFilePath": "/home/csharp/Documentos/JB/activity-2/Contest/Contest.csproj",
+  "expectedPackageFiles": [
+    "/home/csharp/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/csharp/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/csharp/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
