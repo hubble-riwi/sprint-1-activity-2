@@ -1,0 +1,28 @@
+/home/csharp/Documentos/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto
+/home/csharp/Documentos/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.deps.json
+/home/csharp/Documentos/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.runtimeconfig.json
+/home/csharp/Documentos/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.dll
+/home/csharp/Documentos/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.pdb
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.AssemblyInfoInputs.cache
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.AssemblyInfo.cs
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.dll
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/refint/ConcursoCanto.dll
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.pdb
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.genruntimeconfig.cache
+/home/csharp/Documentos/ConcursoCanto/obj/Debug/net8.0/ref/ConcursoCanto.dll
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.AssemblyInfoInputs.cache
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.AssemblyInfo.cs
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.dll
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/refint/ConcursoCanto.dll
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.pdb
+/home/csharp/Documentos/activity 2/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto
+/home/csharp/Documentos/activity 2/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.deps.json
+/home/csharp/Documentos/activity 2/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.runtimeconfig.json
+/home/csharp/Documentos/activity 2/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.dll
+/home/csharp/Documentos/activity 2/ConcursoCanto/bin/Debug/net8.0/ConcursoCanto.pdb
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ConcursoCanto.genruntimeconfig.cache
+/home/csharp/Documentos/activity 2/ConcursoCanto/obj/Debug/net8.0/ref/ConcursoCanto.dll

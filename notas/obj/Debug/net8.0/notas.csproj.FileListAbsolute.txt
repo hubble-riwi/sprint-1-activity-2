@@ -1,0 +1,14 @@
+/home/csharp/Documentos/notas/bin/Debug/net8.0/notas
+/home/csharp/Documentos/notas/bin/Debug/net8.0/notas.deps.json
+/home/csharp/Documentos/notas/bin/Debug/net8.0/notas.runtimeconfig.json
+/home/csharp/Documentos/notas/bin/Debug/net8.0/notas.dll
+/home/csharp/Documentos/notas/bin/Debug/net8.0/notas.pdb
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.AssemblyInfoInputs.cache
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.AssemblyInfo.cs
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.dll
+/home/csharp/Documentos/notas/obj/Debug/net8.0/refint/notas.dll
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.pdb
+/home/csharp/Documentos/notas/obj/Debug/net8.0/notas.genruntimeconfig.cache
+/home/csharp/Documentos/notas/obj/Debug/net8.0/ref/notas.dll
