@@ -1,0 +1,14 @@
+/home/csharp/Documentos/activity 2/Empleados/bin/Debug/net8.0/Empleados
+/home/csharp/Documentos/activity 2/Empleados/bin/Debug/net8.0/Empleados.deps.json
+/home/csharp/Documentos/activity 2/Empleados/bin/Debug/net8.0/Empleados.runtimeconfig.json
+/home/csharp/Documentos/activity 2/Empleados/bin/Debug/net8.0/Empleados.dll
+/home/csharp/Documentos/activity 2/Empleados/bin/Debug/net8.0/Empleados.pdb
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.AssemblyInfoInputs.cache
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.AssemblyInfo.cs
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.csproj.CoreCompileInputs.cache
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.dll
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/refint/Empleados.dll
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.pdb
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/Empleados.genruntimeconfig.cache
+/home/csharp/Documentos/activity 2/Empleados/obj/Debug/net8.0/ref/Empleados.dll
